@@ -24,5 +24,12 @@
     "postcss": "^8.5.5",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
-  }
+  }// pages/index.js
+export default function Home() {
+  return <h1>Hello from Next.js!</h1>;
+}project-root/
+├── app/
+│   └── page.js
+├── package.json
+└── ...
 }
