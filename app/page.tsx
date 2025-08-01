@@ -1,5 +1,3 @@
-app/
-└── page.tsx
 // app/page.tsx
 
 export default function Home() {
@@ -8,4 +6,6 @@ export default function Home() {
       <h1>Welcome to My App Router Page</h1>
     </main>
   );
-}
+}npm install
+npm run build
+
